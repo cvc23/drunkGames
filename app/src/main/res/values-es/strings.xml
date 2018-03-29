@@ -4,14 +4,15 @@
     <string name="copareyAs">CASCADA</string>
     <string name="coparey2">PARA TI</string>
     <string name="coparey3">PARA MI</string>
-    <string name="coparey4">AL SUELO!</string>
+    <string name="coparey4">TODOS AL SUELO!</string>
     <string name="coparey5">HOMBRES TOMAN</string>
     <string name="coparey6">CHICAS TOMAN</string>
-    <string name="coparey7">AL CIELO</string>
+    <string name="coparey7">TODOS AL CIELO</string>
     <string name="coparey8">EL COMPAÑERO</string>
     <string name="coparey9">RIMA</string>
     <string name="coparey10">CATEGORIA</string>
     <string name="copareyj">INVENTA UNA REGLA</string>
     <string name="copareyq">MAESTRO DEL\n\n INTERROGATORIO</string>
     <string name="copareyk">COPA DEL REY!!!</string>
+    <string name="finJuegoCopaRey">A beber la copa del Rey! \nFin del juego</string>
 </resources>
