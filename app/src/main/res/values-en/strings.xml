@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">drunkGames</string>
+    <string name="title_activity_kings_cup">KingsCupActivity</string>
+    <string name="copareyAs">WATERFALL</string>
+    <string name="coparey2">2 FOR U.</string>
+    <string name="coparey3">3 FOR ME</string>
+    <string name="coparey4">4 ON THE FLOOR</string>
+    <string name="coparey5">5 FOR GUYS</string>
+    <string name="coparey6">6 FOR CHICKS</string>
+    <string name="coparey7">7 HEAVEN</string>
+    <string name="coparey8">8 WITH MATE</string>
+    <string name="coparey9">9 RHYME</string>
+    <string name="coparey10">CATEGORIES</string>
+    <string name="copareyj">MAKE A RULE</string>
+    <string name="copareyq">QUESTION MASTER</string>
+    <string name="copareyk">KING\'S CUP!!!</string>
+    <string name="finJuegoCopaRey">Let\'s drink the king\'s Cup! \nEnd of the game</string>
+</resources>
